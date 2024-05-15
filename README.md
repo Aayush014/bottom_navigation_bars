@@ -12,6 +12,31 @@ This Flutter project showcases a bottom navigation bar with a snake-like animati
 Include a GIF or image here to showcase the animation effect.<br></br>
 <img src = "https://github.com/Aayush014/bottom_navigation_bars/assets/133498952/fe4e8457-d482-4b7b-b6d6-b2dba92d2f75" height=10% >
 
+<details> 
+  <summary><h2>📸Photos</h2></summary>
+  <p>
+    <table align="center">
+  <tr>
+    <td><img src="https://github.com/Aayush014/bottom_navigation_bars/assets/133498952/e6fb99aa-3ffb-4640-bee2-25cc73774983" alt="Image 2" width="180" height="auto"></td>
+    <td><img src="https://github.com/Aayush014/bottom_navigation_bars/assets/133498952/8a325056-2413-4820-8f28-edb83c0c248d" alt="Image 3" width="180" height="auto"></td>
+    <td><img src="https://github.com/Aayush014/bottom_navigation_bars/assets/133498952/0a1f184d-722e-42f2-9384-38e2d2b5f5a4" alt="Image 4" width="180" height="auto"></td>
+    <td><img src="https://github.com/Aayush014/bottom_navigation_bars/assets/133498952/76028041-4693-43bb-bc33-f4f682ac18ac" alt="Image 4" width="180" height="auto"></td>
+  </tr>
+    </table>    
+  </p>
+  </details>
+
+  <details> 
+  <summary><h2>📽️Video</h2></summary>
+  <p>
+    <table align="center">
+  <tr>
+    <video src ="https://github.com/Aayush014/bottom_navigation_bars/assets/133498952/f6545783-2000-4d57-8c72-231e6dd833fb"></video> </h1>  
+  </tr>
+    </table>   
+  </p>
+  </details>
+
 
 ## Getting Started
 
